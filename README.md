@@ -1,1 +1,3 @@
 # Career-Path-Prediction-using-supervisied-mchine-learning-algorithm
+
+This repository contains the industry based project in which most suitable career area can be predicted based on user's input about various academic and non-academic parameters. Selecting right career area which matches current skills and interest is question of dilemma for most of the students. To solve this problem, this project has been initiated which takes input from the user about their interest, skills and their various academic and non-academic fields. The model predicts the most suitable career area related to IT domain for the user. Try it out for yourself !!
